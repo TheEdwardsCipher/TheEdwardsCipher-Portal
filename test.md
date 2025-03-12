@@ -10,7 +10,7 @@ The quadratic formula is stated as follows:
 
 $$ax^2 + bx + c = 0 \implies x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
-where $b^2 - 4ac$ is called the descriminant. This site is currently using MathJax to display math.
+where $b^2 - 4ac$ is called the discriminant. This site is currently using MathJax to display math.
 
 ## Code
 
