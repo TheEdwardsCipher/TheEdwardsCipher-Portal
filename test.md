@@ -4,11 +4,19 @@ layout: default
 
 # Testing Site
 
-This page is to test multiple things. Look! A formula!
+This page is to test multiple things.
+
+## Mathematical Typesetting
+
+The quadratic formula is stated as follows:
 
 $$ax^2 + bx + c = 0 \implies x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
-Here is a piece of code:
+where $b^2 - 4ac$ is called the descriminant. This site is currently using MathJax to display math.
+
+## Code
+
+The following code block is copied from a `MATLAB` file:
 
 ```
 clear; clc
@@ -30,5 +38,3 @@ end
 
 avg = sum/N % Average of areas
 ```
-
-[Front Page](./)
