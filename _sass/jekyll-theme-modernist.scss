@@ -3,7 +3,7 @@
 
 html {
   background:#0070C0;
-  background: #0070C0 radial-gradient(ellipse at bottom, #7030A0 67%, #0070C0 100%) fixed;
+  background: #0070C0 radial-gradient(ellipse at bottom, #7030A0 50%, #0070C0 100%) fixed;
   height: 100%;
 }
 
@@ -209,7 +209,7 @@ img {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family:Consolas, Lucida Console, Terminal;
   color:#333;
   font-size:12px;
   overflow-x:auto;
