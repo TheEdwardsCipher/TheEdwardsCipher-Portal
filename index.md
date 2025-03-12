@@ -2,7 +2,7 @@
 
 This site is under construction.
 
-[Link to the Test Page](./test.html).
+[Link to the Test Page.](./test.html)
 
 ## Links
 
