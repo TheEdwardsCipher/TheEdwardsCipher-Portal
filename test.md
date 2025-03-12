@@ -4,8 +4,6 @@ layout: default
 
 # Testing Site
 
-This page is to test multiple things.
-
 ## Mathematical Typesetting
 
 The quadratic formula is stated as follows:
