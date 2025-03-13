@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Homepage / Directory"
+title: "Homepage"
 ---
 
 # Welcome to William Edwards Cipher's Portal!
 
 This site is under construction.
 
-## Links Social Media
+# Directory
+
+## Links to Social Media
 
 ### Official
 
@@ -22,6 +24,10 @@ This site is under construction.
 * [Instagram](https://www.instagram.com/theedwardscipher/)
 * [Tumblr](https://www.tumblr.com/theedwardsciphbruh)
 
-## Directory
+## Articles & Posts
 
-[Link to the Test Page.](./test.html)
+* [Test Page](./test.html)
+
+## Photo Galleries
+
+* TBA
