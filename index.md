@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Homepage / Directory"
+author: "William Edwards Cipher"
+date: "2025-03-12"
+---
+
 # Welcome!
 
 This site is under construction.
