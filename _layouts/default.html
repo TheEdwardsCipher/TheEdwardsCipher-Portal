@@ -35,10 +35,11 @@
         </ul>
       </header>
       <section>
-        <p style="margin-bottom: 2px;"><strong>{{ page.title }}</strong></p>
+        <p style="margin-bottom: 1px;"><strong>{{ page.title }}</strong></p>
         {% if page.url != "/" %}
-          <p style="margin-bottom: 1px; font-size: 10px;">{{ page.author }}</p>
-          <p style="font-size: 10px;">{{ page.date | date: "%d %B %Y" }}</p>
+          <p style="margin-bottom: 0px; font-size: 10px;">{{ page.author }}</p>
+          <p style="margin-bottom: 0px; font-size: 10px;">{{ page.date | date: "%d %B %Y" }}</p>
+          <p></p>
         {% endif %}
 
       {{ content }}
