@@ -40,10 +40,9 @@
             <p><strong>{{ page.title }}</strong></p>
           {% endif %}
           {% if page.url != "/" %}
-            <p style="margin-bottom: 1px;"><strong>{{ page.title }}</strong></p>
-            <p style="margin-bottom: 0px; font-size: 10px;">{{ page.author }}</p>
-            <p style="margin-bottom: 0px; font-size: 10px;">{{ page.date | date: "%d %B %Y" }}</p>
-            <p></p>
+            <h1><strong>{{ page.title }}</strong></h1>
+            <p>{{ page.author }}</p>
+            <p>{{ page.date | date: "%d %B %Y" }}</p>
           {% endif %}
         </center>
 
