@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Homepage"
+title: "Home Page"
 ---
 
 # Welcome to William Edwards Cipher's Portal!
