@@ -35,15 +35,17 @@
         </ul>
       </header>
       <section>
-        {% if page.url == "/" %}
-          <p><strong>{{ page.title }}</strong></p>
-        {% endif %}
-        {% if page.url != "/" %}
-          <p style="margin-bottom: 1px;"><strong>{{ page.title }}</strong></p>
-          <p style="margin-bottom: 0px; font-size: 10px;">{{ page.author }}</p>
-          <p style="margin-bottom: 0px; font-size: 10px;">{{ page.date | date: "%d %B %Y" }}</p>
-          <p></p>
-        {% endif %}
+        <center>
+          {% if page.url == "/" %}
+            <p><strong>{{ page.title }}</strong></p>
+          {% endif %}
+          {% if page.url != "/" %}
+            <p style="margin-bottom: 1px;"><strong>{{ page.title }}</strong></p>
+            <p style="margin-bottom: 0px; font-size: 10px;">{{ page.author }}</p>
+            <p style="margin-bottom: 0px; font-size: 10px;">{{ page.date | date: "%d %B %Y" }}</p>
+            <p></p>
+          {% endif %}
+        </center>
 
       {{ content }}
 
