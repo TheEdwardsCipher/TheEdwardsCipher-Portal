@@ -3,23 +3,25 @@ layout: default
 title: "Homepage / Directory"
 ---
 
-# Welcome!
+# Welcome to William Edwards Cipher's Portal!
 
 This site is under construction.
 
-[Link to the Test Page.](./test.html)
+## Links Social Media
 
-## Links
-
-### General
+### Official
 
 * [YouTube](https://youtube.com/@TheEdwardsCipher)
 * [Official Twitter/X](https://x.com/YeEdwardsCipher)
 * [Discord Server](https://discord.gg/9eeMxgU5Gq)
 * [Twitch](https://www.twitch.tv/theedwardscipher) (currently inactive)
 
-### Personal Accounts
+### Personal
 
 * [Personal Twitter/X](https://x.com/YeOtherCiphbruh)
 * [Instagram](https://www.instagram.com/theedwardscipher/)
 * [Tumblr](https://www.tumblr.com/theedwardsciphbruh)
+
+## Directory
+
+[Link to the Test Page.](./test.html)

@@ -38,8 +38,7 @@
         <center>
           {% if page.url == "/" %}
             <p><strong>{{ page.title }}</strong></p>
-          {% endif %}
-          {% if page.url != "/" %}
+          {% else %}
             <h1><strong>{{ page.title }}</strong></h1>
             <p>{{ page.author }}</p>
             <p>{{ page.date | date: "%d %B %Y" }}</p>
