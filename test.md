@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Testing"
+author: "William Edwards Cipher"
+date: "2025-03-12"
 ---
 
 # Testing Site
