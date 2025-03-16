@@ -26,7 +26,7 @@ This site is under construction.
 
 ## Articles & Posts
 
-* [Test Page](./test.html)
+* [Test Page](./Content/TestingMaterials/test.html)
 
 ## Photo Galleries
 
