@@ -11,7 +11,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Congue commodo augue condim
 
 Maecenas malesuada primis gravida nisi consequat neque. Molestie sollicitudin egestas vestibulum imperdiet nisi phasellus rutrum. Duis duis amet adipiscing eu mus cubilia nibh dolor. Suspendisse penatibus placerat nibh a rhoncus class. Sociosqu velit bibendum ac hendrerit luctus nisl. Curabitur fusce aenean varius conubia etiam pretium etiam pretium. Egestas dictum leo porttitor consequat sit proin aliquet suscipit tristique. Habitasse et natoque venenatis eleifend dolor augue. Fames ex varius facilisi ipsum pretium quis dignissim consectetur nisi.
 
-![Stelle nom.](/Sticker_PPG_03_Stelle_01.png "Stelle nom")
+![Stelle eating a watermelon.](./Sticker_PPG_03_Stelle_01.png "Stelle nom")
 
 Accumsan consectetur fermentum quis orci leo pellentesque consectetur ultrices. Diam iaculis venenatis eros condimentum cras proin aliquet. Sapien faucibus ipsum lacinia tincidunt sociosqu vel pellentesque? Amet egestas a litora rutrum eleifend. Platea fringilla sapien rhoncus ut vivamus purus aenean. Aliquet convallis maecenas vivamus class maximus class risus etiam? Dictum est risus dolor volutpat et tortor gravida. Ad vehicula pellentesque etiam adipiscing ad felis bibendum euismod. Tortor taciti orci ante curae, gravida quisque. Class blandit proin egestas dolor mauris eget.
 
