@@ -9,7 +9,7 @@ date: "2025-03-12"
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Congue commodo augue condimentum ligula malesuada convallis. Aridiculus ullamcorper cursus nunc suscipit hac. Tristique lectus ornare mi dignissim tortor sem platea. Maximus odio eleifend suspendisse felis dolor commodo cras mollis. Aefficitur ante volutpat laoreet cubilia enim. Dui arcu ultricies vestibulum class metus amet. Scelerisque mus aliquam dictum volutpat inceptos finibus venenatis curae. Et posuere vestibulum elementum tristique; potenti erat.
 
-![A very wide image.](./Sierra_HDR_Panorama_DFX8048_2280x819_Q40_wm_mini.png "Landscape")
+![A very wide image.](./Sierra_HDR_Panorama_DFX8048_2280x819_Q40_wm_mini.jpg "Landscape")
 
 Maecenas malesuada primis gravida nisi consequat neque. Molestie sollicitudin egestas vestibulum imperdiet nisi phasellus rutrum. Duis duis amet adipiscing eu mus cubilia nibh dolor. Suspendisse penatibus placerat nibh a rhoncus class. Sociosqu velit bibendum ac hendrerit luctus nisl. Curabitur fusce aenean varius conubia etiam pretium etiam pretium. Egestas dictum leo porttitor consequat sit proin aliquet suscipit tristique. Habitasse et natoque venenatis eleifend dolor augue. Fames ex varius facilisi ipsum pretium quis dignissim consectetur nisi.
 
