@@ -16,6 +16,8 @@ body {
   font-weight:400;
   background:url('../images/checker.png') fixed;
   min-height: calc(100% - 100px);
+  text-align: justify;
+  text-justify: auto;
 }
 
 .wrapper {
@@ -208,7 +210,7 @@ blockquote {
 img {
   display: block;
   margin: auto;
-  max-width: 690px;
+  max-width: 750px;
   max-height: 250px;
   width: auto;
   height: auto;
