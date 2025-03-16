@@ -206,7 +206,10 @@ blockquote {
 }
 
 img {
-  max-width:100%;
+  max-width: 700px;
+  max-height: 100px;
+  width: auto;
+  height: auto;
 }
 
 code, pre {
