@@ -20,7 +20,7 @@ This site is under construction.
 
 ### Personal
 
-* [YouTube](https://youtube.com/@YeOtherCipher)
+* [YouTube](https://youtube.com/@TheOtherCiphbruh)
 * [Twitter/X](https://x.com/YeOtherCiphbruh)
 * [Instagram](https://www.instagram.com/theedwardscipher/)
 * [Tumblr](https://www.tumblr.com/theedwardsciphbruh)
