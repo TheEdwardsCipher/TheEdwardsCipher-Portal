@@ -5,7 +5,7 @@ title: "Home Page"
 
 # Welcome to My Portal!
 
-This site is under construction and intended to be a repository (a so-called "portfolio") which contains my works, creations, and experiences. Some big changes are going to happen here.
+This site is under construction and intended to be a repository -- a so-called "portfolio" -- which contains my works, creations, and experiences. Some big changes are going to happen here.
 
 # Directory
 
@@ -27,7 +27,7 @@ This site is under construction and intended to be a repository (a so-called "po
 
 * TBA
 
-### Streaming and Video Editing (as "William Edwards Cipher")
+### Streaming and Video Editing ("William Edwards Cipher")
 
 * TBA
 
@@ -45,7 +45,7 @@ This site is under construction and intended to be a repository (a so-called "po
 <div style="display: flex; gap: 2rem;">
 
   <div style="flex: 1;">
-    <h3>Official</h3>
+    <h3>"William Edwards Cipher"</h3>
     <p>
       <ul>
         <li> <a href="https://youtube.com/@TheEdwardsCipher">YouTube</a> </li>
@@ -69,17 +69,3 @@ This site is under construction and intended to be a repository (a so-called "po
   </div>
 
 </div>
-
-### Official
-
-* [YouTube](https://youtube.com/@TheEdwardsCipher)
-* [Twitter/X](https://x.com/YeEdwardsCipher)
-* [Discord Server](https://discord.gg/9eeMxgU5Gq)
-* [Twitch](https://www.twitch.tv/theedwardscipher) (currently inactive)
-
-### Personal
-
-* [YouTube](https://youtube.com/@TheOtherCiphbruh)
-* [Twitter/X](https://x.com/YeOtherCiphbruh)
-* [Instagram](https://www.instagram.com/theedwardscipher/)
-* [Tumblr](https://www.tumblr.com/theedwardsciphbruh)
