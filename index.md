@@ -3,7 +3,7 @@ layout: default
 title: "Home Page"
 ---
 
-# Welcome to My Portal!
+# Welcome to Wiliam Phạm's Repository!
 
 This site is under construction and intended to be a repository -- a so-called "portfolio" -- which contains my works, creations, and experiences. Some big changes are going to happen here.
 
@@ -34,7 +34,6 @@ This site is under construction and intended to be a repository -- a so-called "
 ### Miscellaneous
 
 * [Test Page](./Content/TestingMaterials/test.html)
-* TBA
 
 ## Photo Galleries
 
