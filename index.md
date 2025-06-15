@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Home Page"
+title: "Home Page / Directory"
 ---
 
-# Welcome to Wiliam's Repository and Archive!
+# Welcome to William's Repository and Archive!
 
 This site is under construction and intended to be a repository -- a so-called "portfolio" -- which contains my works, creations, and experiences. Some big changes are going to happen here.
 
