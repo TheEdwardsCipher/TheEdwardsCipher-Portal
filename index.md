@@ -49,7 +49,7 @@ This site is under construction and intended to be a repository (a so-called "po
   <div style="flex: 1;">
     <h2>Subsection A</h2>
     <p>
-      Content for Subsection A goes here. You can use standard Markdown syntax inside HTML blocks, but some elements (like `##`) won't be parsed, so use `<h2>` tags instead.
+      Content for Subsection A goes here.
     </p>
   </div>
 

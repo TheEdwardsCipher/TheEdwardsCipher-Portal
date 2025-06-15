@@ -31,7 +31,7 @@ where $$b^2 - 4ac$$ is called the discriminant. This site is currently using Mat
 
 The following code block is copied from a `MATLAB` file:
 
-```
+```matlab
 clear; clc
 
 N = 1000; % Number of parallelograms (i.e., pairs of vectors)
