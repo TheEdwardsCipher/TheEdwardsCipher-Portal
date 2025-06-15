@@ -47,14 +47,24 @@ This site is under construction and intended to be a repository (a so-called "po
   <div style="flex: 1;">
     <h3>Official</h3>
     <p>
-      Content for Subsection A goes here.
+      <ul>
+        <li> <a href="https://youtube.com/@TheEdwardsCipher">YouTube</a> </li>
+        <li> <a href="https://x.com/YeEdwardsCipher">Twitter/X</a> </li>
+        <li> <a href="https://discord.gg/9eeMxgU5Gq">Discord Server</a> </li>
+        <li> <a href="https://www.twitch.tv/theedwardscipher">Twitch</a> </li>
+      </ul>
     </p>
   </div>
 
   <div style="flex: 1;">
     <h3>Personal</h3>
     <p>
-      Content for Subsection B goes here.
+      <ul>
+        <li> <a href="https://youtube.com/@TheOtherCiphbruh">YouTube</a> </li>
+        <li> <a href="https://x.com/YeOtherCiphbruh">Twitter/X</a> </li>
+        <li> <a href="https://www.instagram.com/theedwardscipher/">Instagram</a> </li>
+        <li> <a href="https://www.tumblr.com/theedwardsciphbruh">Tumblr</a> </li>
+      </ul>
     </p>
   </div>
 
