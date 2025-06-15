@@ -44,7 +44,7 @@ This site is under construction and intended to be a repository -- a so-called "
 <div style="display: flex; gap: 2rem;">
 
   <div style="flex: 1;">
-    <h3> &#8220;William Edwards Cipher&#8221;</h3>
+    <h3> &#8220;William Edwards Cipher&#8221;</h3> <!-- Curly quotation marks are used in HTML sections. -->
     <p>
       <ul>
         <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
