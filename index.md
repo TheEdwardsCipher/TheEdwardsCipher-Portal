@@ -42,21 +42,19 @@ This site is under construction and intended to be a repository (a so-called "po
 
 ## Links to Social Media
 
-# Main Section
-
 <div style="display: flex; gap: 2rem;">
 
   <div style="flex: 1;">
-    <h2>Subsection A</h2>
+    <h3>Official</h3>
     <p>
       Content for Subsection A goes here.
     </p>
   </div>
 
   <div style="flex: 1;">
-    <h2>Subsection B</h2>
+    <h3>Personal</h3>
     <p>
-      Content for Subsection B goes here. Images, links, and inline Markdown like *italic* or **bold** will still work.
+      Content for Subsection B goes here.
     </p>
   </div>
 
