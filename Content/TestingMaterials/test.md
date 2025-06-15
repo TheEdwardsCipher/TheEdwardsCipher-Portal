@@ -11,7 +11,8 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Pellentesque tempor malesua
 
 Aliquet maximus amet aliquam malesuada vehicula erat. Arcu gravida hac ipsum leo torquent hac torquent. Euismod porta sagittis massa semper nibh ullamcorper, habitasse facilisis bibendum. Nunc tempor ornare torquent nulla; vulputate leo suscipit. Ante iaculis consectetur urna montes nisl nam. Class magnis suspendisse taciti porta turpis ridiculus. Sem nam facilisi augue eu elementum dis gravida? Libero malesuada montes; nisl aliquam in pellentesque leo condimentum. Aptent ridiculus eu etiam class quisque efficitur himenaeos donec. Enim imperdiet per hac class pretium.
 
-![A very wide image.](./Sierra_HDR_Panorama_DFX8048_2280x819_Q40_wm_mini.jpg "Landscape")
+<!-- ![A very wide image.](./Sierra_HDR_Panorama_DFX8048_2280x819_Q40_wm_mini.jpg "Landscape") -->
+<img src="./Sierra_HDR_Panorama_DFX8048_2280x819_Q40_wm_mini.jpg" style="width:100%;" alt="Landscape">
 
 Orci euismod lectus taciti vehicula magna mi pellentesque laoreet elit. Turpis nulla ullamcorper enim interdum elit proin torquent. Lacus nec condimentum fermentum tellus; parturient risus maximus vitae. Aptent tempor neque sit tincidunt montes non elementum. Hac sed aliquam convallis sagittis fermentum iaculis efficitur blandit duis. Facilisi condimentum mattis odio quam semper montes suspendisse sem. Pretium magna natoque curae interdum porttitor.
 

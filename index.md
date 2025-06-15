@@ -3,7 +3,7 @@ layout: default
 title: "Home Page"
 ---
 
-# Welcome to Wiliam Phạm's Repository!
+# Welcome to Wiliam's Repository and Archive!
 
 This site is under construction and intended to be a repository -- a so-called "portfolio" -- which contains my works, creations, and experiences. Some big changes are going to happen here.
 
@@ -50,7 +50,7 @@ This site is under construction and intended to be a repository -- a so-called "
         <li> <a href="https://youtube.com/@TheEdwardsCipher">YouTube</a> </li>
         <li> <a href="https://x.com/YeEdwardsCipher">Twitter/X</a> </li>
         <li> <a href="https://discord.gg/9eeMxgU5Gq">Discord Server</a> </li>
-        <li> <a href="https://www.twitch.tv/theedwardscipher">Twitch</a> </li>
+        <li> <a href="https://www.twitch.tv/theedwardscipher">Twitch</a> (currently inactive) </li>
       </ul>
     </p>
   </div>
@@ -62,7 +62,7 @@ This site is under construction and intended to be a repository -- a so-called "
         <li> <a href="https://youtube.com/@TheOtherCiphbruh">YouTube</a> </li>
         <li> <a href="https://x.com/YeOtherCiphbruh">Twitter/X</a> </li>
         <li> <a href="https://www.instagram.com/theedwardscipher/">Instagram</a> </li>
-        <li> <a href="https://www.tumblr.com/theedwardsciphbruh">Tumblr</a> </li>
+        <li> <a href="https://www.tumblr.com/theedwardsciphbruh">Tumblr</a> (currently inactive) </li>
       </ul>
     </p>
   </div>
