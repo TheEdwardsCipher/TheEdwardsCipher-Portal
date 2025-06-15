@@ -47,10 +47,10 @@ This site is under construction and intended to be a repository -- a so-called "
     <h3>"William Edwards Cipher"</h3>
     <p>
       <ul>
-        <li> <a href="https://youtube.com/@TheEdwardsCipher">YouTube</a> </li>
-        <li> <a href="https://x.com/YeEdwardsCipher">Twitter/X</a> </li>
-        <li> <a href="https://discord.gg/9eeMxgU5Gq">Discord Server</a> </li>
-        <li> <a href="https://www.twitch.tv/theedwardscipher">Twitch</a> (currently inactive) </li>
+        <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
+        <li> <a href="https://x.com/YeEdwardsCipher" target="_blank" rel="noopener noreferrer">Twitter/X</a> </li>
+        <li> <a href="https://discord.gg/9eeMxgU5Gq" target="_blank" rel="noopener noreferrer">Discord Server</a> </li>
+        <li> <a href="https://www.twitch.tv/theedwardscipher" target="_blank" rel="noopener noreferrer">Twitch</a> (currently inactive) </li>
       </ul>
     </p>
   </div>
@@ -59,10 +59,10 @@ This site is under construction and intended to be a repository -- a so-called "
     <h3>Personal</h3>
     <p>
       <ul>
-        <li> <a href="https://youtube.com/@TheOtherCiphbruh">YouTube</a> </li>
-        <li> <a href="https://x.com/YeOtherCiphbruh">Twitter/X</a> </li>
-        <li> <a href="https://www.instagram.com/theedwardscipher/">Instagram</a> </li>
-        <li> <a href="https://www.tumblr.com/theedwardsciphbruh">Tumblr</a> (currently inactive) </li>
+        <li> <a href="https://youtube.com/@TheOtherCiphbruh" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
+        <li> <a href="https://x.com/YeOtherCiphbruh" target="_blank" rel="noopener noreferrer">Twitter/X</a> </li>
+        <li> <a href="https://www.instagram.com/theedwardscipher/" target="_blank" rel="noopener noreferrer">Instagram</a> </li>
+        <li> <a href="https://www.tumblr.com/theedwardsciphbruh" target="_blank" rel="noopener noreferrer">Tumblr</a> (currently inactive) </li>
       </ul>
     </p>
   </div>
