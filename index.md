@@ -58,7 +58,7 @@ This site is under construction and intended to be a repository -- a so-called "
 <div style="display: flex; gap: 2rem;">
 
   <div style="flex: 1;">
-    <h3> &#8220;TheEdwardsCipher&#8221;</h3> <!-- Curly quotation marks are used in HTML sections. -->
+    <h4> &#8220;TheEdwardsCipher&#8221;</h4> <!-- Curly quotation marks are used in HTML sections. -->
     <p>
       <ul>
         <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
@@ -70,7 +70,7 @@ This site is under construction and intended to be a repository -- a so-called "
   </div>
 
   <div style="flex: 1;">
-    <h3>Personal</h3>
+    <h4>Personal</h4>
     <p>
       <ul>
         <li> <a href="https://youtube.com/@TheOtherCiphbruh" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
