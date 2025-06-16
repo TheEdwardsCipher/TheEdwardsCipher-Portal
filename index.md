@@ -33,6 +33,10 @@ This site is under construction and intended to be a repository -- a so-called "
 
 ## Passion Projects
 
+### Music and Music Engraving
+
+* TBA
+
 ### Streaming and Video Editing ("TheEdwardsCipher")
 
 * TBA
