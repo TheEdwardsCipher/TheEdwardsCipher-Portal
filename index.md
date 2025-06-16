@@ -9,7 +9,11 @@ This site is under construction and intended to be a repository -- a so-called "
 
 # Directory
 
-## Articles, Works & Creations
+## About Me
+
+* TBA
+
+## Academic and Professional Projects
 
 ### Mathematics
 
@@ -19,7 +23,7 @@ This site is under construction and intended to be a repository -- a so-called "
 
 * TBA
 
-### Data Science & Analytics
+### Data Science & Data Analytics
 
 * TBA
 
@@ -27,7 +31,13 @@ This site is under construction and intended to be a repository -- a so-called "
 
 * TBA
 
-### Streaming and Video Editing ("William Edwards Cipher")
+## Passion Projects
+
+### Streaming and Video Editing ("TheEdwardsCipher")
+
+* TBA
+
+### Photography (Photo Galleries)
 
 * TBA
 
@@ -35,16 +45,20 @@ This site is under construction and intended to be a repository -- a so-called "
 
 * [Test Page](./Content/TestingMaterials/test.html)
 
-## Photo Galleries
+## Contacts
 
-* TBA
+### Emails
 
-## Links to Social Media
+* Work: <nhatpham.william.work@gmail.com>
+* University of the Pacific: <n_pham13@u.pacific.edu>
+* "TheEdwardsCipher": <theedwardscipher.business@gmail.com>
+
+### Social Media
 
 <div style="display: flex; gap: 2rem;">
 
   <div style="flex: 1;">
-    <h3> &#8220;William Edwards Cipher&#8221;</h3> <!-- Curly quotation marks are used in HTML sections. -->
+    <h3> &#8220;TheEdwardsCipher&#8221;</h3> <!-- Curly quotation marks are used in HTML sections. -->
     <p>
       <ul>
         <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
