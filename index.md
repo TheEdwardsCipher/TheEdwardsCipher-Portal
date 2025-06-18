@@ -25,7 +25,7 @@ This site is under construction and intended to be a repository -- a so-called "
 
 ## Passion Projects
 
-* [Music and Music Engraving](./Content/PassionProjects/Music/description.html)
+* [Music Projects](./Content/PassionProjects/Music/description.html)
 * [Streaming and Video Editing](./Content/PassionProjects/StreamingEditing/description.html)
 * [Photography (Photo Galleries)](./Content/PassionProjects/Photography/description.html)
 
