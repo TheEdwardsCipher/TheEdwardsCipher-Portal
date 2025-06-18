@@ -26,7 +26,7 @@ This site is under construction and intended to be a repository -- a so-called "
 ## Passion Projects
 
 * Music and Music Engraving
-* Streaming and Video Editing ("TheEdwardsCipher")
+* Streaming and Video Editing
 * Photography (Photo Galleries)
 
 ## Miscellaneous
