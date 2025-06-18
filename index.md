@@ -11,23 +11,23 @@ This site is under construction and intended to be a repository -- a so-called "
 
 ## All Things William
 
-* About Me
-* Résumé: Mathematics
-* Résumé: Math Education
-* Résumé: Data Science & Data Analytics
-* Curriculum Vitae
+* [About Me](./Content/AboutMe.html)
+* Résumé: Mathematics &#x2197;
+* Résumé: Math Education &#x2197;
+* Résumé: Data Science & Data Analytics &#x2197;
+* Curriculum Vitae &#x2197;
 
 ## Academic and Professional Projects
 
-* Mathematics
-* Math Education
-* Data Science & Data Analytics
+* [Mathematics](./Content/MainProjects/Mathematics/description.html)
+* [Math Education](./Content/MainProjects/MathEducation/description.html)
+* [Data Science & Data Analytics](./Content/MainProjects/DataScienceAnalytics/description.html)
 
 ## Passion Projects
 
-* Music and Music Engraving
-* Streaming and Video Editing
-* Photography (Photo Galleries)
+* [Music and Music Engraving](./Content/PassionProjects/Music/description.html)
+* [Streaming and Video Editing](./Content/PassionProjects/StreamingEditing/description.html)
+* [Photography (Photo Galleries)](./Content/PassionProjects/Photography/description.html)
 
 ## Miscellaneous
 
