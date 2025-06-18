@@ -9,9 +9,9 @@ This site is under construction and intended to be a repository -- a so-called "
 
 # Directory
 
-## About Me
+## All Things William
 
-* All Things William
+* About Me
 * Résumé: Mathematics
 * Résumé: Math Education
 * Résumé: Data Science & Data Analytics
