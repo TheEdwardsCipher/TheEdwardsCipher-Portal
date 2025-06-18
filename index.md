@@ -11,41 +11,25 @@ This site is under construction and intended to be a repository -- a so-called "
 
 ## About Me
 
-* TBA
+* All Things William
+* Résumé: Mathematics
+* Résumé: Math Education
+* Résumé: Data Science & Data Analytics
+* Curriculum Vitae
 
 ## Academic and Professional Projects
 
-### Mathematics
-
-* TBA
-
-### Math Education
-
-* TBA
-
-### Data Science & Data Analytics
-
-* TBA
-
-### Cryptography
-
-* TBA
+* Mathematics
+* Math Education
+* Data Science & Data Analytics
 
 ## Passion Projects
 
-### Music and Music Engraving
+* Music and Music Engraving
+* Streaming and Video Editing ("TheEdwardsCipher")
+* Photography (Photo Galleries)
 
-* TBA
-
-### Streaming and Video Editing ("TheEdwardsCipher")
-
-* TBA
-
-### Photography (Photo Galleries)
-
-* TBA
-
-### Miscellaneous
+## Miscellaneous
 
 * [Test Page](./Content/TestingMaterials/test.html)
 
@@ -62,25 +46,25 @@ This site is under construction and intended to be a repository -- a so-called "
 <div style="display: flex; gap: 2rem;">
 
   <div style="flex: 1;">
-    <h4> &#8220;TheEdwardsCipher&#8221;</h4> <!-- Curly quotation marks are used in HTML sections. -->
-    <p>
-      <ul>
-        <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
-        <li> <a href="https://x.com/YeEdwardsCipher" target="_blank" rel="noopener noreferrer">Twitter/X</a> </li>
-        <li> <a href="https://discord.gg/9eeMxgU5Gq" target="_blank" rel="noopener noreferrer">Discord Server</a> </li>
-        <li> <a href="https://www.twitch.tv/theedwardscipher" target="_blank" rel="noopener noreferrer">Twitch</a> (currently inactive) </li>
-      </ul>
-    </p>
-  </div>
-
-  <div style="flex: 1;">
     <h4>Personal</h4>
     <p>
       <ul>
         <li> <a href="https://youtube.com/@TheOtherCiphbruh" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
         <li> <a href="https://x.com/YeOtherCiphbruh" target="_blank" rel="noopener noreferrer">Twitter/X</a> </li>
         <li> <a href="https://www.instagram.com/theedwardscipher/" target="_blank" rel="noopener noreferrer">Instagram</a> </li>
-        <li> <a href="https://www.tumblr.com/theedwardsciphbruh" target="_blank" rel="noopener noreferrer">Tumblr</a> (currently inactive) </li>
+        <li> <a href="https://www.linkedin.com/in/nhatpham-theedwardscipher/" target="_blank" rel="noopener noreferrer">LinkedIn</a> </li>
+      </ul>
+    </p>
+  </div>
+
+  <div style="flex: 1;">
+    <h4> &#8220;TheEdwardsCipher&#8221;</h4> <!-- Curly quotation marks are used in HTML sections. -->
+    <p>
+      <ul>
+        <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
+        <li> <a href="https://x.com/YeEdwardsCipher" target="_blank" rel="noopener noreferrer">Twitter/X</a> </li>
+        <li> <a href="https://discord.gg/9eeMxgU5Gq" target="_blank" rel="noopener noreferrer">Discord Server</a> </li>
+        <li> <a href="https://www.twitch.tv/theedwardscipher" target="_blank" rel="noopener noreferrer">Twitch</a> (inactive) </li>
       </ul>
     </p>
   </div>
