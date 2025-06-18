@@ -37,9 +37,9 @@ This site is under construction and intended to be a repository -- a so-called "
 
 ### Emails
 
-* Work: <nhatpham.william.work@gmail.com>
-* University of the Pacific: <n_pham13@u.pacific.edu>
-* "TheEdwardsCipher": <theedwardscipher.business@gmail.com>
+* Work: <nhatpham.william.work@gmail.com> &#x2709;
+* University of the Pacific: <n_pham13@u.pacific.edu> &#x2709;
+* "TheEdwardsCipher": <theedwardscipher.business@gmail.com> &#x2709;
 
 ### Social Media
 
