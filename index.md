@@ -43,7 +43,7 @@ This site is under construction and intended to be a repository -- a so-called "
 
 ### Social Media
 
-* <a href="https://youtube.com/@TheOtherCiphbruh" target="_blank" rel="noopener noreferrer">YouTube &#x2197;</a>
-* <a href="https://x.com/YeOtherCiphbruh" target="_blank" rel="noopener noreferrer">Twitter/X &#x2197;</a>
-* <a href="https://www.instagram.com/theedwardscipher/" target="_blank" rel="noopener noreferrer">Instagram &#x2197;</a>
-* <a href="https://www.linkedin.com/in/nhatpham-theedwardscipher/" target="_blank" rel="noopener noreferrer">LinkedIn &#x2197;</a>
+* <a href="https://youtube.com/@TheOtherCiphbruh" target="_blank" rel="noopener noreferrer">YouTube</a> &#x2197;
+* <a href="https://x.com/YeOtherCiphbruh" target="_blank" rel="noopener noreferrer">Twitter/X</a> &#x2197;
+* <a href="https://www.instagram.com/theedwardscipher/" target="_blank" rel="noopener noreferrer">Instagram</a> &#x2197;
+* <a href="https://www.linkedin.com/in/nhatpham-theedwardscipher/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &#x2197;
