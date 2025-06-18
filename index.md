@@ -49,10 +49,10 @@ This site is under construction and intended to be a repository -- a so-called "
     <h4>Personal</h4>
     <p>
       <ul>
-        <li> <a href="https://youtube.com/@TheOtherCiphbruh" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
-        <li> <a href="https://x.com/YeOtherCiphbruh" target="_blank" rel="noopener noreferrer">Twitter/X</a> </li>
-        <li> <a href="https://www.instagram.com/theedwardscipher/" target="_blank" rel="noopener noreferrer">Instagram</a> </li>
-        <li> <a href="https://www.linkedin.com/in/nhatpham-theedwardscipher/" target="_blank" rel="noopener noreferrer">LinkedIn</a> </li>
+        <li> <a href="https://youtube.com/@TheOtherCiphbruh" target="_blank" rel="noopener noreferrer">YouTube &#x2197;</a> </li>
+        <li> <a href="https://x.com/YeOtherCiphbruh" target="_blank" rel="noopener noreferrer">Twitter/X &#x2197;</a> </li>
+        <li> <a href="https://www.instagram.com/theedwardscipher/" target="_blank" rel="noopener noreferrer">Instagram &#x2197;</a> </li>
+        <li> <a href="https://www.linkedin.com/in/nhatpham-theedwardscipher/" target="_blank" rel="noopener noreferrer">LinkedIn &#x2197;</a> </li>
       </ul>
     </p>
   </div>
@@ -61,10 +61,10 @@ This site is under construction and intended to be a repository -- a so-called "
     <h4> &#8220;TheEdwardsCipher&#8221;</h4> <!-- Curly quotation marks are used in HTML sections. -->
     <p>
       <ul>
-        <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube</a> </li>
-        <li> <a href="https://x.com/YeEdwardsCipher" target="_blank" rel="noopener noreferrer">Twitter/X</a> </li>
-        <li> <a href="https://discord.gg/9eeMxgU5Gq" target="_blank" rel="noopener noreferrer">Discord Server</a> </li>
-        <li> <a href="https://www.twitch.tv/theedwardscipher" target="_blank" rel="noopener noreferrer">Twitch</a> (inactive) </li>
+        <li> <a href="https://youtube.com/@TheEdwardsCipher" target="_blank" rel="noopener noreferrer">YouTube &#x2197;</a> </li>
+        <li> <a href="https://x.com/YeEdwardsCipher" target="_blank" rel="noopener noreferrer">Twitter/X &#x2197;</a> </li>
+        <li> <a href="https://discord.gg/9eeMxgU5Gq" target="_blank" rel="noopener noreferrer">Discord Server &#x2197;</a> </li>
+        <li> <a href="https://www.twitch.tv/theedwardscipher" target="_blank" rel="noopener noreferrer">Twitch &#x2197;</a> (inactive) </li>
       </ul>
     </p>
   </div>
