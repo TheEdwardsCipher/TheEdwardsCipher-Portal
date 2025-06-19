@@ -5,7 +5,7 @@ author: "Minh Nhật &#8220;William&#8221; Phạm"
 date: "2025-06-18"
 ---
 
-<img src="./YouTube Banner Ver 2.1.png" style="box-shadow: 2px 2px 5px;" title="YouTube Banner" alt="YouTube Banner">
+<img src="./YouTube Banner Ver 2.1.png" style="filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 0.5));" title="YouTube Banner" alt="YouTube Banner">
 
 Put stuff here, pls. I'ma put them links here, so I can declutter:
 
