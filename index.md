@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home Page / Directory"
+title: "Home Page & Directory"
 ---
 
 # Welcome to William's Repository and Archive
