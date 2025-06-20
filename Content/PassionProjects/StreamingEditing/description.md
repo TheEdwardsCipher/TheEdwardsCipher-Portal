@@ -5,7 +5,7 @@ author: "Minh Nhật &#8220;William&#8221; Phạm"
 date: "2025-06-18"
 ---
 
-<img src="./YouTube Banner Ver 2.1.png" title="YouTube Banner" alt="YouTube Banner">
+<img src="./YouTube Banner Ver 2.1.png" style="width:100%" title="YouTube Banner" alt="YouTube Banner">
 
 Put stuff here, pls. I'ma put them links here, so I can declutter:
 
