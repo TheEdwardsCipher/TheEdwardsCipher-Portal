@@ -22,7 +22,7 @@ This site is under construction and intended to be a repository -- a so-called "
 * [Mathematics](./Content/MainProjects/Mathematics/description.html)
 * [Math Education](./Content/MainProjects/MathEducation/description.html)
 * [Data Science & Data Analytics](./Content/MainProjects/DataScienceAnalytics/description.html)
-* [College Essays](./Content/MainProjects/DataScienceAnalytics/description.html)
+* [College Essays](./Content/MainProjects/CollegeEssays/description.html)
 
 ## Passion Projects
 
