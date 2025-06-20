@@ -17,7 +17,7 @@ Aliquet maximus amet aliquam malesuada vehicula erat. Arcu gravida hac ipsum leo
 Orci euismod lectus taciti vehicula magna mi pellentesque laoreet elit. Turpis nulla ullamcorper enim interdum elit proin torquent. Lacus nec condimentum fermentum tellus; parturient risus maximus vitae. Aptent tempor neque sit tincidunt montes non elementum. Hac sed aliquam convallis sagittis fermentum iaculis efficitur blandit duis. Facilisi condimentum mattis odio quam semper montes suspendisse sem. Pretium magna natoque curae interdum porttitor.
 
 <!-- [Stelle nomming a watermelon.](./Sticker_PPG_03_Stelle_01.png "Stelle_Nom") -->
-<img src="./Sticker_PPG_03_Stelle_01.png" style="width:50%" title="Stelle_Nom" alt="Stelle nomming a watermelon.">
+<img src="./Sticker_PPG_03_Stelle_01.png" style="width:33%" title="Stelle_Nom" alt="Stelle nomming a watermelon.">
 
 Ultricies proin eleifend diam suspendisse justo nunc augue mattis quam. Praesent sit viverra non curae integer laoreet magna. Hac penatibus gravida ac, velit justo massa nostra. Bibendum dui etiam commodo nam varius. Mollis urna in volutpat dui tortor mollis. Maximus pharetra est porttitor at senectus dictumst.
 
