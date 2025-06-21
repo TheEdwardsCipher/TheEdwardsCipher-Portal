@@ -23,24 +23,27 @@ Other checks also come into play when it comes to the struggle for existence acr
 
 Darwin also stated,
 
-> "In the case of varieties of the same species, the struggle will generally be almost equally severe, and we sometimes see the contest soon decided. […] As the species of the same genus usually have, though by no means invariably, much similarity in habits and constitution, and always in structure, *the struggle will generally be more severe between them, if they come into competition with each other, than between the species of distinct genera.*"
+> "In the case of varieties of the same species, the struggle will generally be almost equally severe, and we sometimes see the contest soon decided. […] As the species of the same genus usually have, though by no means invariably, much similarity in habits and constitution, and always in structure, **the struggle will generally be more severe between them, if they come into competition with each other, than between the species of distinct genera.**"
 >
 > Charles Darwin, *On the Origin of Species*, 1859
 
 Within a particular environment, varieties between members of the same species give some members an advantage compared to the rest, and this in turn allow these individuals to dominate the environment and thus destroy the rest, even though they are all the same species.
  
-# Natural Selection and “Survival of the Fittest”
+# Natural Selection and "Survival of the Fittest"
+
 Because of the way the struggle for life and existence occurs and remains, the survival of the fittest is of utmost importance, and thus nature has its own ways to select individuals of any species and allow them to live, hence the term natural selection. However, contrary to contemporary belief (and even our current belief), the term natural selection does not imply conscious choice (i.e., by a divine entity). The idea of natural selection is the aggregated result of multiple complex factors; any slight physical change like climate. Furthermore,
 
-“We have good reason to believe […] that changes in the conditions of life give a tendency to increased variability; and in the foregoing cases the conditions the changed, and this would manifestly be favourable to natural selection, by affording a better chance of the occurrence of profitable variations. Unless such occur, natural selection can do nothing.”
-Charles Darwin, On the Origin of Species, 1859
+> "We have good reason to believe […] that changes in the conditions of life give a tendency to increased variability; and in the foregoing cases the conditions the changed, and this would manifestly be favourable to natural selection, **by affording a better chance of the occurrence of profitable variations.** Unless such occur, natural selection can do nothing."
+>
+> Charles Darwin, *On the Origin of Species*, 1859
 
-According to Darwin, “natural selection is daily and hourly scrutinising, throughout the world, the slightest variations; rejecting those that are bad, reserving and adding up all that are good; silently and insensibly working, WHENEVER AND WHEREVER OPPORTUNITY OFFERS, at the improvement of each organic being in relation to its organic and inorganic conditions of life.” This process is slow, but it is nonetheless very real. Through natural selection, the young generation of a species is modified to gain a chance of survival better than that of its parent generation, thus benefitting the species as a whole. Darwin demonstrated the great effectiveness of natural selection and how it works extensively in the section Illustration of the Action of Natural Selection, or the Survival of the Fittest in Chapter IV.
+According to Darwin, "natural selection is daily and hourly scrutinising, throughout the world, the slightest variations; rejecting those that are bad, reserving and adding up all that are good; silently and insensibly working, WHENEVER AND WHEREVER OPPORTUNITY OFFERS, at the improvement of each organic being in relation to its organic and inorganic conditions of life." This process is slow, but it is nonetheless very real. Through natural selection, the young generation of a species is modified to gain a chance of survival better than that of its parent generation, thus benefitting the species as a whole. Darwin demonstrated the great effectiveness of natural selection and how it works extensively in the section *Illustration of the Action of Natural Selection, or the Survival of the Fittest* in Chapter IV.
 
-Darwin also went over conditions in which “new forms” of species may be produced via natural selection in section Circumstances Favourable for the Production of New Forms through Natural Selection, which he deemed “an extremely intricate subject.” Darwin stated that a vast number of factors can greatly change the outcome of natural selection, and that a large group of individuals with a set of advantages may be given a better chance of survival at the expense of lesser amount of variability. However,
+Darwin also went over conditions in which "new forms" of species may be produced via natural selection in section *Circumstances Favourable for the Production of New Forms through Natural Selection*, which he deemed "an extremely intricate subject." Darwin stated that a vast number of factors can greatly change the outcome of natural selection, and that a large group of individuals with a set of advantages may be given a better chance of survival at the expense of lesser amount of variability. However,
 
-“Though nature grants long period of time for the work of natural selection, she does not grant an indefinite period; for as all organic beings are striving to seize on each place in the economy of nature, if any one species does not become modified and improved in a corresponding degree with its competitors it will be exterminated. Unless favourable variations by inherited by some at least of the offspring, nothing can be effected by natural selection.”
-Charles Darwin, On the Origin of Species, 1859
+> "Though nature grants long period of time for the work of natural selection, she does not grant an indefinite period; **for as all organic beings are striving to seize on each place in the economy of nature, if any one species does not become modified and improved in a corresponding degree with its competitors it will be exterminated.** Unless favourable variations by inherited by some at least of the offspring, nothing can be effected by natural selection."
+>
+> Charles Darwin, *On the Origin of Species*, 1859
 
 Lastly, Darwin stated that because natural selection acts solely through the preservation of variations in some way advantageous, rarity becomes a precursor to extinction. If there is not enough number of individuals of a species, that species will eventually die out and become extinct. In the process of natural selection, divergence and diversification occurs.
 
