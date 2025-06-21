@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Charles Darwin, the Struggle for Existence, Natural Selection, and Possible Justifications for British Imperialism and Colonialism "
+title: "Charles Darwin, the Struggle for Existence, Natural Selection, and Possible &#8220;Justifications&#8221; for British Imperialism and Colonialism "
 author: "Nhật &#8220;William&#8221; Phạm"
 date: "2023-11-14"
 ---
 
 # Introduction
 
-Charles Darwin was known as the largest contributor to evolutionary biology. Through his various works, ideas such as natural selection (“survival of the fittest”), mutation, and descendant from common ancestors became the foundation of much of our understanding of biology and shaped how we interpret the beginning of humanity and life as we know it. However, it is vital to understand the context behind his works because the entirety of Darwin’s life from 1809 to 1882 was during the time imperialism, particularly British imperialism, was at its strongest. It can be said that Darwin was influenced by the biggest part of the 19th century: colonialism. It can also be said that Darwin might have influenced the motivation for imperialism and colonialism through either the language Darwin used to describe his findings or ways people might interpret his findings as justification for such. Using On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (hereby shortened to On the Origin of Species) as our example, we shall explore the concepts of the “struggle for existence” and natural selection and how some details of his work may suggest arguments for justification for British imperialism and colonialism, from which we shall then infer the relationship between Darwinism and the 19th century’s ideals.
+Charles Darwin was known as the largest contributor to evolutionary biology. Through his various works, ideas such as natural selection ("survival of the fittest"), mutation, and descendant from common ancestors became the foundation of much of our understanding of biology and shaped how we interpret the beginning of humanity and life as we know it. However, it is vital to understand the context behind his works because the entirety of Darwin's life from 1809 to 1882 was during the time imperialism, particularly British imperialism, was at its strongest. It can be said that Darwin was influenced by the biggest part of the 19<sup>th</sup> century: colonialism. It can also be said that Darwin might have influenced the motivation for imperialism and colonialism through either the language Darwin used to describe his findings or ways people might interpret his findings as justification for such. Using *On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life* (hereby shortened to *On the Origin of Species*) as our example, we shall explore the concepts of the "struggle for existence" and natural selection and how some details of his work may suggest arguments for justification for British imperialism and colonialism, from which we shall then infer the relationship between Darwinism and the 19<sup>th</sup> century's ideals.
 
-Natural selection and the “struggle for existence” are two topics which Darwin wrote extensively in On the Origin of Species; chapter III is about what he calls the “struggle for existence”, and chapter IV is about natural selection (or “the survival of the fittest”).
+Natural selection and the "struggle for existence" are two topics which Darwin wrote extensively in *On the Origin of Species*; chapter III is about what he calls the "struggle for existence", and chapter IV is about natural selection (or "the survival of the fittest").
 
 # The Struggle for Existence
 
@@ -70,4 +70,4 @@ Whenever Darwinism is mentioned, people tend to think of how much some factions 
  
 # Citations and References
 * Britannica, The Editors of Encyclopaedia. "social Darwinism". Encyclopedia Britannica, 15 Sep. 2023, <https://www.britannica.com/topic/social-Darwinism>. Accessed 14 November 2023.
-* History.com Editors. “Social Darwinism.” HISTORY, 6 Apr. 2018, <www.history.com/topics/early-20th-century-us/social-darwinism>. Accessed 14 Nov. 2023.
+* History.com Editors. “Social Darwinism.” HISTORY, 6 Apr. 2018, <https://www.history.com/topics/early-20th-century-us/social-darwinism>. Accessed 14 Nov. 2023.
