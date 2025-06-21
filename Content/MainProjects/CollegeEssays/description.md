@@ -13,7 +13,7 @@ Here lies the essays I have written in some of my non-Math classes. As cringe as
 * Past Efforts in Tackling Environmental Issues, from a Historical Standpoint (11 April)
 * *The Overstory* by Richard Powers: Seeds, Stories, Impact, and Inspiration (02 May)
 * [Science, Art, and Reconciliation of the Two Schools of Thought](./ENGL128/Essay1.html) (23 September)
-* [Charles Darwin, the Struggle for Existence, Natural Selection, and Possible Justifications for British Imperialism and Colonialism](./ENGL128/Essay2.html) (14 November)
+* [Charles Darwin, the Struggle for Existence, Natural Selection, and Possible "Justifications" for British Imperialism and Colonialism](./ENGL128/Essay2.html) (14 November)
 * Information and Knowledge: Value, Cost, Utilisation and Power (09 December)
 * Competition vs. Cooperation: Why the Notion of "Survival of the Fittest" Does Not Paint a Complete Picture of the Natural World (14 December)
 * Can Science *Really* Explain Anything and Everything? (14 December)
