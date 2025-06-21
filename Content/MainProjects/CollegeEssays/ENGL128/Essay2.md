@@ -28,7 +28,7 @@ Darwin also stated,
 > Charles Darwin, *On the Origin of Species*, 1859
 
 Within a particular environment, varieties between members of the same species give some members an advantage compared to the rest, and this in turn allow these individuals to dominate the environment and thus destroy the rest, even though they are all the same species.
- 
+
 # Natural Selection and "Survival of the Fittest"
 
 Because of the way the struggle for life and existence occurs and remains, the survival of the fittest is of utmost importance, and thus nature has its own ways to select individuals of any species and allow them to live, hence the term natural selection. However, contrary to contemporary belief (and even our current belief), the term natural selection does not imply conscious choice (i.e., by a divine entity). The idea of natural selection is the aggregated result of multiple complex factors; any slight physical change like climate. Furthermore,
@@ -57,7 +57,7 @@ This may come as a surprise to some people: When *On the Origin of Species* were
 >
 > The Editors of Encyclopaedia Britannica, *Social Darwinism*, 2023
 
-Another notable detail is the fact that in *On The Origin of Species*, Darwin borrowed the term "survival of the fittest" by sociologist Herbert Spencer and the term "struggle for existence" from economist Thomas Malthus. However, according to HISTORY,
+Another notable detail is the fact that in *On The Origin of Species*, Darwin borrowed the term "survival of the fittest" by sociologist Herbert Spencer and the term "struggle for existence" from economist Thomas Malthus. However, according to *HISTORY*,
 
 > "Darwin rarely commented on the social implications of his theories. But to those who followed Spencer and Malthus, Darwin’s theory appeared to be confirming with science what they already believed to be true about human society -- **that the fit inherited qualities such as industriousness and the ability to accumulate wealth, while the unfit were innately lazy and stupid.**"
 >
