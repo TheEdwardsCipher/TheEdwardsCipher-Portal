@@ -76,7 +76,7 @@ What also eventually died out in the 20<sup>th</sup> century is social Darwinism
 # Conclusion
 
 Whenever Darwinism is mentioned, people tend to think of how much some factions and groups are against it. People tend to also think only of the purely biological implications of evolution when it comes to foundational concepts like natural selection. However, it should be vital for us to understand the cultural implications of Darwinism and the works of Charles Darwin. Any body of text -- especially the most influential ones -- can be used either for societal and cultural progress or to justify atrocities. We can only say something is bad because at some point in history, we finally realised that it is indeed a bad thing; for example, imperialism used to be justified, but now we keep condemning it because we as humans have collectively known better.
- 
+
 # Citations and References
 
 * Britannica, The Editors of Encyclopaedia. "social Darwinism". Encyclopedia Britannica, 15 Sep. 2023, <https://www.britannica.com/topic/social-Darwinism>. Accessed 14 November 2023.
