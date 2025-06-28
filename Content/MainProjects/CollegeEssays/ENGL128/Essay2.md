@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Charles Darwin, the Struggle for Existence, Natural Selection, and Possible &#8220;Justifications&#8221; for British Imperialism and Colonialism "
+title: "Charles Darwin, the Struggle for Existence, Natural Selection, and Possible &#8220;Justifications&#8221; for British Imperialism and Colonialism"
 author: "Nhật &#8220;William&#8221; Phạm"
 date: "2023-11-14"
 ---
